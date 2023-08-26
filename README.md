@@ -1,16 +1,4 @@
 # workii
 this is my first github repository
-hgfhghghghghghghghgvggggvvvvvvvvvvvvvvvvvvvvvvvvvvv
-gdgggggggggggggggggggggg
-this is my first github repository
-hgfhghghghghghghghgvggggvvvvvvvvvvvvvvvvvvvvvvvvvvv
-gdgggggggggggggggggggggg
-this is my first github repository
-hgfhghghghghghghghgvggggvvvvvvvvvvvvvvvvvvvvvvvvvvv
-gdgggggggggggggggggggggg
-this is my first github repository
-hgfhghghghghghghghgvggggvvvvvvvvvvvvvvvvvvvvvvvvvvv
-gdgggggggggggggggggggggg
-this is my first github repository
-hgfhghghghghghghghgvggggvvvvvvvvvvvvvvvvvvvvvvvvvvv
-gdgggggggggggggggggggggg
+
+simply done
